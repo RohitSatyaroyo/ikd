@@ -108,7 +108,7 @@ const App = () => {
 
       {/* Footer */}
       <Footer />
-      <Footer2 />
+
     </Router>
   );
 };
